@@ -6,15 +6,14 @@ Foi desenvolvida uma Single Page Application (SPA) em **Angular 17+** que permit
 
 # Instruções
 
-Abaixo descreve-se como foi realizado o desafio (Enunciado 02).
+Abaixo descreve-se como foi realizado o desafio (Enunciado 02). Antes de explicar o código, é necessário preparar o ambiente:
 
-Antes de explicar o código, é necessário preparar o ambiente:
+### Tecnologias usadas:
 
-    Tecnologias usadas:
-        Angular 17+ (Standalone Components): Para arquitetura modular e moderna.
-        TypeScript: Para tipagem estática e segurança no código.
-        CSS3 (Flexbox/Grid): Para layouts responsivos e estéticos.
-        RxJS: Para manipulação reativa de dados.
+    Angular 17+ (Standalone Components): Para arquitetura modular e moderna.
+    TypeScript: Para tipagem estática e segurança no código.
+    CSS3 (Flexbox/Grid): Para layouts responsivos e estéticos.
+    RxJS: Para manipulação reativa de dados.
     Instalações necessárias: Node.js instalado na máquina.
 
 ## Instalação das Dependências (Terminal)
